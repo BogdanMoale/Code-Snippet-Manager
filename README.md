@@ -16,3 +16,4 @@ Search for specific snippets by entering a keyword and optional language filter,
 Edit existing snippets by providing the title of the snippet to edit, along with the updated code or language, and clicking the "Edit Snippet" button.
 Delete snippets by entering the title of the snippet to delete and clicking the "Delete Snippet" button.
 The Code Snippet Manager offers a convenient way to organize and access your code snippets, helping you streamline your development workflow and improve productivity.
+
