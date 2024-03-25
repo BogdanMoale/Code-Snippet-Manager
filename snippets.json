@@ -1,0 +1,22 @@
+{
+    "VBA Test": {
+        "code": "Your code here",
+        "language": "VBA"
+    },
+    "C# test": {
+        "code": "Your code here",
+        "language": "C#"
+    },
+    "C++ test": {
+        "code": "Your code here",
+        "language": "C++"
+    },
+    "JavaScript test": {
+        "code": "Your code here",
+        "language": "JavaScript"
+    },
+    "JavaScript1 test": {
+        "code": "Your code here",
+        "language": "JavaScript"
+    }
+}
